@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WS-DAN.PyTorch
 A neat PyTorch implementation of WS-DAN (Weakly Supervised Data Augmentation Network) for FGVC (Fine-Grained Visual Classification). (_Hu et al._, ["See Better Before Looking Closer: Weakly Supervised Data Augmentation
 Network for Fine-Grained Visual Classification"](https://arxiv.org/abs/1901.09891v2), arXiv:1901.09891)
@@ -144,3 +145,6 @@ Code in ```eval.py``` helps generate attention maps. (Image, Heat Attention Map,
 
 
 
+=======
+# first-code
+>>>>>>> 0fd19f7e26e41e46d3dce53dc780877a97d4feb3
